@@ -11,7 +11,7 @@ const Navbar = () => {
           <Link to="/blog" className="text-white font-bold hover:text-gray-300 hover:border-white border-b-2 border-transparent transition duration-300">
             Blog
           </Link>
-          <Link to="/creativeExcursions" className="text-white font-bold hover:text-gray-300 hover:border-white border-b-2 border-transparent transition duration-300">
+          <Link to="/creative" className="text-white font-bold hover:text-gray-300 hover:border-white border-b-2 border-transparent transition duration-300">
             Creative Excursions
           </Link>
           <Link to="/work" className="text-white font-bold hover:text-gray-300 hover:border-white border-b-2 border-transparent transition duration-300">
